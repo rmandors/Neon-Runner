@@ -22,11 +22,11 @@ A top-down space shooter game built in Processing, featuring a vibrant neon aest
 ### Home Screen
 <img width="400" height="300" alt="Screenshot 2025-12-11 at 9 55 03 PM" src="https://github.com/user-attachments/assets/d6f179f3-1925-4920-b242-e60516de9627" />
 
-### Gameplay
-<img width="400" height="300" alt="Screenshot 2025-12-11 at 10 05 25 PM" src="https://github.com/user-attachments/assets/405d63b8-3d97-40d7-97d3-1b7d22eb18df" />
-
 ### Leaderboards
 <img width="400" height="300" alt="Screenshot 2025-12-11 at 9 55 24 PM" src="https://github.com/user-attachments/assets/5f3ebcc1-6369-45fa-bd38-dd7637d9a5d8" />
+
+### Gameplay
+<img width="400" height="300" alt="Screenshot 2025-12-11 at 10 05 25 PM" src="https://github.com/user-attachments/assets/405d63b8-3d97-40d7-97d3-1b7d22eb18df" />
 
 ### Game Over
 <img width="400" height="300" alt="Screenshot 2025-12-11 at 9 56 51 PM" src="https://github.com/user-attachments/assets/c9a243a8-be68-4cbd-b51e-e350b7404974" />
