@@ -1,4 +1,4 @@
-# NeonRunner
+# Neon Runner
 
 A top-down space shooter game built in Processing, featuring a vibrant neon aesthetic, power-ups, progressive difficulty, and a leaderboard system.
 
