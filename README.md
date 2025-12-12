@@ -63,10 +63,9 @@ A top-down space shooter game built in Processing, featuring a vibrant neon aest
 
 ## Project Structure
 
-The game is built using object-oriented programming principles with a clear class hierarchy:
+The game is built using OOP principles with a clear class hierarchy:
 
 - **Core**: `NeonRunner.pde` (main entry point), `GameManager.pde`, `GameObject.pde`
 - **Entities**: `Player.pde`, `Enemy.pde`, `Obstacle.pde`, `PowerUp.pde`, `Projectile.pde`
 - **Managers**: `MenuManager.pde`, `LeaderboardManager.pde`, `GameAudio.pde`, `UIManager.pde`
 - **Utilities**: `BackgroundGrid.pde`, `ParticleSystem.pde`
-- 
