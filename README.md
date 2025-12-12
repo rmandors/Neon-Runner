@@ -69,12 +69,4 @@ The game is built using object-oriented programming principles with a clear clas
 - **Entities**: `Player.pde`, `Enemy.pde`, `Obstacle.pde`, `PowerUp.pde`, `Projectile.pde`
 - **Managers**: `MenuManager.pde`, `LeaderboardManager.pde`, `GameAudio.pde`, `UIManager.pde`
 - **Utilities**: `BackgroundGrid.pde`, `ParticleSystem.pde`
-
-## Technologies
-
-- Processing (Java-based)
-- Minim audio library
-
-## License
-
-This project is open source and available for educational purposes.
+- 
